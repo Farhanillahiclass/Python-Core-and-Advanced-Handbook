@@ -1,0 +1,10 @@
+BOOKS/
+college_work/
+unithana_python/
+Markdown_Codanics/
+Python_101_Crash_Course_Codanic/
+*.pdf
+*.ipynb_checkpoints/
+.venv/
+.conda/
+*.log
